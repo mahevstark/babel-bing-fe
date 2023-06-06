@@ -1,0 +1,3 @@
+{
+	"identifier": "{{LoginForm.data.emailInput}}",
+	"password": "{{LoginForm.data.passwordInput}}"

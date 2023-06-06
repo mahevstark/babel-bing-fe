@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "LoginFunction",
+    "pageId": "Landing",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Landing_LoginFunction",
+  "deleted": false,
+  "gitSyncId": "647ecd4505d8736bde287da6_647ed6aca69dfa5838a245cc"
+}
